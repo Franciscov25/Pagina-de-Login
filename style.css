@@ -1,0 +1,117 @@
+.B-Username{
+    margin-left: 870px;
+    margin-top: 300px;
+}
+
+.B-Username input{
+    background-color: rgb(97,47,47);
+}
+
+.B-Password input{
+    background-color: rgb(97,47,47);
+}
+
+.B-Username button{
+    background-color: rgb(97, 47, 47);
+    border: none;
+    border-radius: 40px;
+    padding: 10px 10px;
+}
+
+.B-Password{
+    margin-left: 870px;
+    margin-top: 0px;
+}
+
+.B-Password button{
+    background-color: rgb(97, 47, 47);
+    border: none;
+    border-radius: 40px;
+    padding: 10px 10px;
+}
+
+.Remember{
+    margin-left: 866px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.Remember h1{
+    margin-left: 30px;
+    margin-top: -19px;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(56, 56, 56);
+}
+
+.Forgot{
+    margin-left: 870px;
+    margin-top: 20px;
+    color: grey;
+}
+
+.B-Login{
+    margin-left: 470px;
+    margin-top: 30px;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+}
+
+.B-Login button{
+    background-color: rgb(107, 52, 52);
+    border: none;
+    border-radius: 25px;
+    padding: 15px 15px;
+    box-shadow: 3px 3px 3px rgb(168, 168, 168);
+    cursor: pointer;
+}
+
+.B-Login button:hover{
+    transition: 1s;
+    background-color: transparent;
+    box-shadow: 3px 3px 3px rgb(168, 168, 168);
+    color: rgb(78, 38, 38);
+}
+
+.Options4Login{
+    margin-left: 915px;
+    margin-top: 25px;
+    font-size: 9px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(97, 97, 97);
+}
+
+.Google{
+    margin-left: 503px;
+    margin-top: 20px;
+}
+
+.Google button{
+   border: none;
+   border-radius: 10px;
+   padding: 5px 5px;
+}
+
+.Facebook{
+    margin-left: 480px;
+    margin-top: -20px;
+}
+
+.Facebook button{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 5px;
+}
+
+.Apple{
+    margin-left: 457px;
+    margin-top: -21px;
+}
+
+.Apple button{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 5px;
+}
